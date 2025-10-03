@@ -1,0 +1,177 @@
+﻿.ax_default {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+}
+._图片 {
+}
+._一级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._段落 {
+  text-align:left;
+}
+._表单提示文本 {
+  color:#999999;
+}
+.form_disabled {
+}
+._流程图形状 {
+}
+.placeholder {
+}
+.line {
+}
+.icon {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.ellipse {
+}
+.button {
+}
+.box_3 {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.box_2 {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+._默认样式 {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.link_button {
+  color:#1E98D7;
+}
+.primary_button {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.label1 {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.box_21 {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._形状 {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.shape {
+  font-family:"PingFang HK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.table_cell {
+}
+._连接 {
+  color:#81D3F8;
+}
+.icon1 {
+  font-family:"思源黑体", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.box_11 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+._连接线 {
+  color:#81D3F8;
+}
+.checkbox {
+  text-align:left;
+}
+textarea, select, input, button { outline: none; }
